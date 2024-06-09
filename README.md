@@ -13,6 +13,12 @@ Run the program by pasting the downloaded file into RemixIDE. Then compile the c
 
 <img width="190" alt="pic" src="https://github.com/justakshit/solidity_final/assets/122389506/ef831b1f-d4ed-441e-a50e-48428bcba6e1">
 
+# Authors 
+Arpit
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 
 
 
