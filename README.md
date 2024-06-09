@@ -9,6 +9,8 @@ This Solidity Initiative includes a Smart Contract designed to execute various o
 You can download the program by clicking on the code button and then you will see the option to download it as a zip file. If you want to use it in your project, you can click on the fork repository and it will be saved to your git hub for further editing.
 ## Executing Program
 Run the program by pasting the downloaded file into RemixIDE. Then compile the code and deploy it. after installation add your account address in the section and the value by which you want to increase the value of the mint function. After clicking on the mint you will see the total amount. the offer is added by clicking the button complete offer. In the same way you can burn with your token, you can change the token name, abbreviation and total supply, for example.
+
+
 <img width="190" alt="pic" src="https://github.com/justakshit/solidity_final/assets/122389506/ef831b1f-d4ed-441e-a50e-48428bcba6e1">
 
 
